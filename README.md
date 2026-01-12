@@ -25,10 +25,10 @@ La aplicación sigue el patrón de diseño **MVC (Modelo–Vista–Controlador)*
   Manejo de la lógica de negocio, navegación entre pantallas y validaciones.
 
 ## Funciones Principales
-- Procesar archivos de asistencia de hasta 100 mil registros
-- Consulta de asistencias individuales y globales en fechas específicas
-- Agregar, eliminar y editar personal
-- Gestión de días libres
+- Procesar archivos de asistencia de hasta 100 mil registros.
+- Consulta de asistencias individuales y globales en fechas específicas.
+- Agregar, eliminar y editar personal.
+- Gestión de días libres.
 
 ## Cómo Ejecutar la Aplicación: 
 1. Descarga el proyecto y abre Visual Studio, abre la carpeta **Proyecto1** y selecciona la solución (Proyecto1.sln).
