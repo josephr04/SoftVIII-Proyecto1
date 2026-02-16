@@ -6,11 +6,11 @@ asistencias ya sea de forma individual o global. También brinda la posibilidad 
 editar, agregar o eliminar personal y una opción para ver y agregar días libres.
 
 ## Herramientas y Tecnologías
-- **Visual Studio**: Entorno de desarrollo
-- **Visual Basic**: Lenguaje de programación principal
-- **phpMyAdmin**: Base de datos local para el manejo de datos
-- **MySql.Data**: Librería para manejar la conexión con la base de datos
-- **RealTaiizor**: Framework de diseño que permite crear interfaces modernas
+- **Visual Studio**: Entorno de desarrollo.
+- **Visual Basic**: Lenguaje de programación principal.
+- **phpMyAdmin**: Base de datos local para el manejo de datos.
+- **MySql.Data**: Librería para manejar la conexión con la base de datos.
+- **RealTaiizor**: Framework de diseño que permite crear interfaces modernas.
 
 ## Arquitectura de la Aplicación
 La aplicación sigue el patrón de diseño **MVC (Modelo–Vista–Controlador)**:
