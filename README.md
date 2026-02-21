@@ -31,7 +31,7 @@ La aplicación sigue el patrón de diseño **MVC (Modelo–Vista–Controlador)*
 - Gestión de días libres.
 
 ## Cómo Ejecutar la Aplicación: 
-1. Descarga el proyecto y abre Visual Studio, abre la carpeta **Proyecto1** y selecciona la solución (Proyecto1.sln).
+1. Descarga el proyecto y abre Visual Studio. abre la carpeta **Proyecto1** y selecciona la solución (Proyecto1.sln).
 2. Inicia apache y MySQL en la aplicación de XAMM y entra a la página 
 de phpMyAdmin. 
 3. En phpMyAdmin importa la base de datos llamada **asistencia.sql** que 
