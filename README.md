@@ -6,7 +6,7 @@ asistencias ya sea de forma individual o global. También brinda la posibilidad 
 editar, agregar o eliminar personal y una opción para ver y agregar días libres.
 
 ## Herramientas y Tecnologías
-- **Visual Studio**: Entorno de desarrollo.
+- **Visual Studio**: Entorno de desarrollo (IDE).
 - **Visual Basic**: Lenguaje de programación principal.
 - **phpMyAdmin**: Base de datos local para el manejo de datos.
 - **MySql.Data**: Librería para manejar la conexión con la base de datos.
