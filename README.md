@@ -36,7 +36,7 @@ La aplicación sigue el patrón de diseño **MVC (Modelo–Vista–Controlador)*
 de phpMyAdmin. 
 3. En phpMyAdmin importa la base de datos llamada **asistencia.sql** que 
 viene dentro de la carpeta raíz del proyecto.
-4. Inicia la aplicación desde Visual Studio.
+4. Inicia la aplicación desde Visual Studio
 
 ## Pantallas
 <p align="center">
